@@ -1,6 +1,7 @@
 # app
 
-This is a E-commerce webapp
+This is a E-commerce webapp.
+
 ## Project setup
 ```
 yarn install
