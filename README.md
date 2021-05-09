@@ -1,10 +1,10 @@
 # app
 
+This is a E-commerce webapp
 ## Project setup
 ```
 yarn install
 ```
-
 ### Compiles and hot-reloads for development
 ```
 yarn serve
